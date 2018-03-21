@@ -1,0 +1,1414 @@
+[ 2018-03-15T13:33:18+08:00 ] 127.0.0.1 /admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: æ— æ³•åŠ è½½æŽ§åˆ¶å™¨:Index
+
+[ 2018-03-15T13:33:30+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+ERR: éžæ³•æ“ä½œ:index
+
+[ 2018-03-15T13:34:26+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:34:26+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T13:38:31+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T13:38:31+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:42:53+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:42:53+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:42:58+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T13:42:58+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:44:37+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-03-15T13:44:38+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:48:43+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:48:43+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:55:38+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T13:55:38+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-03-15T14:02:01+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:02:01+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:02:42+08:00 ] 127.0.0.1 /admin/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:02:43+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:03:52+08:00 ] 127.0.0.1 /index.php/admin/login/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `roots` WHERE `root_name` = 'root1' AND `root_password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-03-15T14:03:52+08:00 ] 127.0.0.1 /index.php/admin/assess/boutique.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:06:05+08:00 ] 127.0.0.1 /index.php/admin/assess/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+NOTIC: [8] Use of undefined constant boutique - assumed 'boutique' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 25 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: posts D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 237 è¡Œ.
+NOTIC: [8] Undefined variable: pages D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 266 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:08:16+08:00 ] 127.0.0.1 /index.php/admin/assess/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+NOTIC: [8] Use of undefined constant boutique - assumed 'boutique' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 25 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: posts D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 237 è¡Œ.
+NOTIC: [8] Undefined variable: pages D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 266 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:10:19+08:00 ] 127.0.0.1 /index.php/admin/assess/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+NOTIC: [8] Use of undefined constant boutique - assumed 'boutique' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 25 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: posts D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 237 è¡Œ.
+NOTIC: [8] Undefined variable: pages D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\fcbc302be04ba4d30b6d4594dfd56175.php ç¬¬ 266 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:10:21+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:10:49+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-03-15T14:10:52+08:00 ] 127.0.0.1 /admin/assess/getPost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:10:54+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:12:32+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:12:39+08:00 ] 127.0.0.1 /admin/assess/getPost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:12:41+08:00 ] 127.0.0.1 /admin/assess/appeal
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:14:35+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:14:44+08:00 ] 127.0.0.1 /admin/assess/examination
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0130s ]
+SQL: INSERT INTO `roots` (`root_name`,`root_password`,`root_right`) VALUES ('','','1') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T14:14:51+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:35:54+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:37:15+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2018-03-15T14:37:25+08:00 ] 127.0.0.1 /index.php/admin/login/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `roots` WHERE `root_name` = 'root1' AND `root_password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-03-15T14:37:25+08:00 ] 127.0.0.1 /index.php/admin/assess/boutique.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:37:50+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:37:52+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-03-15T14:37:54+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-03-15T14:38:03+08:00 ] 127.0.0.1 /index.php/admin/login/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:38:06+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-03-15T14:38:12+08:00 ] 127.0.0.1 /index.php/admin/login/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `roots` WHERE `root_name` = 'root1' AND `root_password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-03-15T14:38:12+08:00 ] 127.0.0.1 /index.php/admin/assess/boutique.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:38:20+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:41:23+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T14:41:31+08:00 ] 127.0.0.1 /index.php/admin/login/captcha.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\LoginController.class.php ç¬¬ 14 è¡Œ.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:18:35+08:00 ] 127.0.0.1 /admin/assess/examination
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0160s ]
+SQL: INSERT INTO `roots` (`root_name`,`root_password`,`root_right`) VALUES ('','','1') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:18:40+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T15:19:34+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T15:20:30+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:20:38+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:26:32+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-03-15T15:31:05+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:31:52+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:32:01+08:00 ] 127.0.0.1 /admin/assess/examination
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:32:07+08:00 ] 127.0.0.1 /admin/assess/appeal
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:32:11+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:32:22+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: syntax error, unexpected '}'
+
+[ 2018-03-15T15:33:01+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T15:45:02+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:50:33+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T15:50:35+08:00 ] 127.0.0.1 /admin/assess/appeal
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T15:50:37+08:00 ] 127.0.0.1 /admin/assess/blacklist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `users` WHERE `users_ifon` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `users` WHERE `users_ifon` = 1 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T16:28:19+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T16:30:27+08:00 ] 127.0.0.1 /admin/assess/getPost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T16:30:32+08:00 ] 127.0.0.1 /admin/assess/getPost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `posts` WHERE ( (boss_deal <> 2 AND if_show <> 0) AND charge_num>15 ) LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-03-15T16:30:34+08:00 ] 127.0.0.1 /admin/assess/boutique
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `posts` WHERE `up_num` > 20 AND `if_show` = 1 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T16:50:45+08:00 ] 127.0.0.1 /admin/assess/appeal
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `users` WHERE `users_ifon` = 0 AND `users_charge_num` > 20 LIMIT 0,6   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-03-15T16:51:14+08:00 ] 127.0.0.1 /admin/assess/personnelManager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `roots` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `roots` LIMIT 0,6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+NOTIC: [8] Undefined index: app_name D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Runtime\Cache\Admin\7aa9428fc446be935673a848949c4532.php ç¬¬ 245 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-03-15T16:51:17+08:00 ] 127.0.0.1 /admin/assess/examination
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£¨16.41£©\E-logel\Application\Admin\Controller\AssessController.class.php ç¬¬ 6 è¡Œ.
+SQL: SHOW COLUMNS FROM `roots` [ RunTime:0.0080s ]
+SQL: INSERT INTO `roots` (`root_name`,`root_password`,`root_right`) VALUES ('','','æ–°é—»å®¡æ ¸') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,287 @@
+[ 2018-03-15T13:30:21+08:00 ] 127.0.0.1 /E-logel/home/index/inidex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Home\Controller\IndexController.class.php Á¨¨ 6 Ë°å.
+ERR: ÈùûÊ≥ïÊìç‰Ωú:inidex
+
+[ 2018-03-15T13:30:27+08:00 ] 127.0.0.1 /E-logel/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Home\Controller\IndexController.class.php Á¨¨ 6 Ë°å.
+ERR: SQLSTATE[HY000] [2002] ”…”⁄ƒø±Íº∆À„ª˙ª˝º´æ‹æ¯£¨Œﬁ∑®¡¨Ω”°£
+
+
+[ 2018-03-15T13:31:14+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Home\Controller\IndexController.class.php Á¨¨ 6 Ë°å.
+ERR: SQLSTATE[HY000] [2002] ”…”⁄ƒø±Íº∆À„ª˙ª˝º´æ‹æ¯£¨Œﬁ∑®¡¨Ω”°£
+
+
+[ 2018-03-15T13:31:56+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Home\Controller\IndexController.class.php Á¨¨ 6 Ë°å.
+ERR: Êó†Ê≥ïÂä†ËΩΩÊï∞ÊçÆÂ∫ìÈ©±Âä®: Think\Db\Driver\
+
+[ 2018-03-15T13:33:05+08:00 ] 127.0.0.1 /home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Home\Controller\IndexController.class.php Á¨¨ 6 Ë°å.
+SQL: SHOW COLUMNS FROM `lables` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lables` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `lables` LIMIT 26   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `users` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `users` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `posts` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `posts` WHERE `boss_deal` = 1  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `posts` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `users` ORDER BY users_sum DESC LIMIT 5   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 3 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SHOW COLUMNS FROM `comments` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 5 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 5 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 6 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 56 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 56 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 56 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 56 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 11 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 7 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 6 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 8 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 9 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 8 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 9 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 308 Ë°å.
+SQL: SELECT `users_pic` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 310 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 329 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant posts_label_id - assumed 'posts_label_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 333 Ë°å.
+SQL: SELECT `posts_label_name` FROM `lables` WHERE `posts_label_id` = 4 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 352 Ë°å.
+SQL: SELECT `users_name` FROM `users` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: p D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 356 Ë°å.
+SQL: SELECT COUNT(*) AS tp_count FROM `comments` WHERE `users_id` = 10 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_sum - assumed 'users_sum' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant comments_num - assumed 'comments_num' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Undefined index: comments_num D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+SQL: SHOW COLUMNS FROM `attention_users` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 10 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 10 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_sum - assumed 'users_sum' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant comments_num - assumed 'comments_num' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Undefined index: comments_num D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 1 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 1 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_sum - assumed 'users_sum' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant comments_num - assumed 'comments_num' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Undefined index: comments_num D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 2 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 2 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_sum - assumed 'users_sum' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant comments_num - assumed 'comments_num' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Undefined index: comments_num D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 4 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 4 AND `users_id` = null  [ RunTime:0.0010s ]
+NOTIC: [8] Use of undefined constant users_sum - assumed 'users_sum' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant comments_num - assumed 'comments_num' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Undefined index: comments_num D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 435 Ë°å.
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 439 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 5 AND `users_id` = null  [ RunTime:0.0000s ]
+NOTIC: [8] Use of undefined constant users_id - assumed 'users_id' D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+NOTIC: [8] Undefined variable: id D:\Documents\Tencent Files\1328262226\FileRecv\MobileFile\E-logel6.9.1£®16.41£©\E-logel\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php Á¨¨ 441 Ë°å.
+SQL: SELECT * FROM `attention_users` WHERE `users_id2` = 5 AND `users_id` = null  [ RunTime:0.0000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

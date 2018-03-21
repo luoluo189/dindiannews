@@ -1,0 +1,61 @@
+<div class="main ">
+    <!-- Page Header -->
+    <div class="page-header">
+        <div class="pull-left">
+            <ol class="breadcrumb visible-sm visible-md visible-lg">
+                <li><a href="index.html"><i class="icon fa fa-home"></i>主页</a></li>
+                <li class="active"><a href="#">黑名单管理</a></li>
+            </ol>
+        </div>
+
+    </div>
+    <div class="panel">
+        <div class="panel-heading bk-bg-primary">
+            <h6><i class="fa fa-table red"></i><span class="break"></span>用户黑名单列表</h6>
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered bootstrap-datatable datatable">
+                    <thead>
+                    <tr>
+                        <th>用户id</th>
+                        <th>用户名</th>
+                        <th>用户发帖数</th>
+                        <th>用户评论数</th>
+                        <th>用户被投诉数</th>
+                        <th>用户状态</th>
+                        <th>操作：用户封禁</th>
+                    </tr>
+                    </thead>
+                    <volist name="black_users" id="vo">
+                        <tbody>
+                        <tr>
+                            <td>{$vo.users_id}</td>
+                            <td>{$vo.users_name}</td>
+                            <td>{$vo.users_sum}</td>
+                            <td>{$vo.users_comment}</td>
+                            <td>
+                                <span class="label label-warning">{$vo.users_charge_num}</span>
+                            </td>
+                            <td>
+                                <span class="label label-danger">{$vo.users_ifon}</span>
+                            </td>
+                            <td>
+                                <a class="btn btn-success" href="/admin/Assess/freedeal/id/{$vo.users_id}">
+                                    解除封禁
+                                </a>
+
+                                <a class="btn btn-danger" href="/admin/Assess/overdeal/id/{$vo.users_id}">
+                                    彻底删除用户
+                                </a>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </volist>
+                </table>
+                <div class="list-page">{$pages}</div>
+            </div>
+        </div>
+
+
+    </div>

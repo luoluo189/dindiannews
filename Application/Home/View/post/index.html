@@ -1,0 +1,101 @@
+
+<div class="aw-container-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="aw-content-wrap clearfix">
+                <div class="col-sm-12 col-md-9 aw-main-content">
+                    <div class="ad-all clearfix">
+                        <script>
+                            $(function(){
+                                $('.carousel').carousel();
+                            });
+                        </script>				</div>
+                    <div>
+                     <form id="post_index" method="post" action="__ROOT__/Home/post/getMessage" name="myform" enctype="multipart/form-data">
+                        <ul>
+                            <li style="margin-left: 20px;margin-top: 10px;"><td>
+                                <th>标题：<input type="text" name="posts_title" id="title" style="width: 400px" class="post_1"></th>
+
+                                <tr>
+                                    <th width="120">选择分类:</th>
+                                        <td>
+                                                <select name="posts_label_id" id="catids" class="required">
+                                                    <option value="">全部</option>
+                                                    <volist name="lab" id="vo">
+                                                        <option value="{$vo.posts_label_id}">{$vo.posts_label_name}</option>
+                                                    </volist>
+
+                                                
+                                                
+                                                </select>
+                                            </td>
+                                </li>
+                            <li style="margin-left: 20px;margin-top: 10px;">
+                               帖子封面图片:<input name="posts_pic" type="file">
+                            </li>
+                            <li style="margin-left: 20px;margin-top: 10px;">
+                                <th>话题简介：<textarea name="posts_intr"  id="intr" cols="20" style="width: 98%;" rows="2"></textarea></th>
+                                <li style="margin-left: 20px;margin-top: 10px;">
+                                    <th>内容：<textarea name="posts_content" class="common-textarea" id="content" cols="30" style="width: 98%;" rows="10"></textarea></th>
+                                </li>
+                                <li style="margin-left: 600px;">
+                                    <input class="btn btn-primary btn6 mr10" value="发帖" type="submit">
+                                    <input class="btn btn6" onclick="history.go(-1)" value="返回" type="button">
+                                </li>
+                            </ul>
+<!-- <a class="btn btn-danger" href="/admin/Assess/overdeal/id/{$vo.users_id}"> -->
+
+                        </form>   
+                        
+                           
+
+
+
+
+
+                    </div>
+                    <!-- end 文章列表-->
+                </div>
+                <!-- 侧边栏 -->
+                <div class="col-sm-3 col-md-3 aw-side-bar hidden-xs hidden-sm">
+                    <!-- 热门文章 -->
+                    <div class="aw-mod aw-text-align-justify">
+                        <div class="mod-head">
+                            <h3>热门文章</h3>
+                        </div>
+                        <div class="mod-body">
+                            <ul>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end 热门文章 -->
+                    <div class="aw-mod aw-text-align-justify">
+                        <div class="mod-head">
+                            <a href="http://www.tabuzhe.com/topic/channel-hot" class="pull-right">更多 &gt;</a>
+                            <h3>热门圈子</h3>
+                        </div>
+                        <div class="mod-body">
+                        </div>
+                    </div>
+                    <div id="tabuzhead" class="hidden-xs hidden-sm">
+                        <div class="tabuzheadboxs">
+                            <a href="http://www.alimaku.com/spin/view/149" target="_blank"><img src="__PUBLIC__/images/AD1.jpg"></a>
+                        </div>
+                        <!--<div class="tabuzheadbox"></div>-->
+                    </div>
+                    <script type="text/javascript">
+                        $(function() {
+                            var fixfox="fixedff";
+                            var rollSet = $('#tabuzhead');// 检查对象，#sidebar-tab是要随滚动条固定的ID，可根据需要更改
+                            var offset = rollSet.offset();
+                            $(window).scroll(function () {
+// 检查对象的顶部是否在游览器可见的范围内
+                                var scrollTop = $(window).scrollTop();
+                                if(offset.top < scrollTop){
+                                    rollSet.addClass(fixfox);
+                                }else{
+                                    rollSet.removeClass(fixfox);
+                                }
+                            });
+                        });
+                    </script>				</div>
